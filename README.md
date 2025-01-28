@@ -53,6 +53,6 @@ Adjust pricing strategies, streamline logistics, and reevaluate inventory to boo
 Identify and target countries with untapped customer potential.
 Adapt products, pricing, and marketing strategies to align with the needs of these new markets.
 
-# Leverage Data-Driven Insights:
+** Leverage Data-Driven Insights: **
 Use the Power BI Dashboard to monitor real-time sales data, customer preferences, and market trends.
 Continuously refine business strategies using insights derived from advanced analytics and DAX functions.
