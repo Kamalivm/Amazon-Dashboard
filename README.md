@@ -1,4 +1,5 @@
 # Amazon-Dashboard Features
+![image](https://github.com/user-attachments/assets/a4b85b32-f9f2-44a2-b69a-cb7daf0d64ea)
 
 # Sales Projection:
 This section displays the projected sales volume, dynamically updating based on user-defined filters or parameters.
